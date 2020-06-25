@@ -137,7 +137,7 @@ if __name__ == "__main__":
   i = results[1]
   i *= 100
   if i >= 75:
-    print ('Recognised as Ritesh!')
+    print ('Recognised as Sajal!')
     print(labels[1], results[1])
   else:
-    print ('Not Recognised!')
+    print ('Not Recognised as Sajal!')
