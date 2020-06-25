@@ -26,7 +26,7 @@
 
   You will need a lot of images of your(or the one for whom you are creating the Face ID) Faces, i.e., go ahead and take hundreds of
   thousands of selfies and fill all those in the Images folder of this repository. You will need to create a Folder and rename as your
-  name. E.g., Create a folder named Ritesh and another as Not Ritesh.
+  name. E.g., Create a folder named sajal and another as Not sajal.
 
 * (Re)Training
 
