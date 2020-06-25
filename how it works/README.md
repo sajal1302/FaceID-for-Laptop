@@ -20,7 +20,7 @@
   That's enough for (this)[] video.
   Also, you need to clone this Repository, to do so, hit the following:
      
-      git clone https://github.com/MauryaRitesh/Face_ID
+      git clone https://github.com/sajal1302/FaceID-for-Laptop
       
 * Gathering Images
 
