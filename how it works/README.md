@@ -1,10 +1,10 @@
 # Face_ID
-* AIM
+* AIM:-
 
   To create a simple and reliable Face Recognition program (For this VIDEO) by using Tensorflow in the Python Programming Language.
   
   
-* Setup
+* Setup:-
 
   You will need to install Tensorflow and Python on your Machine.
   To install tensorflow, hit the following in the terminal:
@@ -22,13 +22,13 @@
      
       git clone https://github.com/sajal1302/FaceID-for-Laptop
       
-* Gathering Images
+* Gathering Images:-
 
   You will need a lot of images of your(or the one for whom you are creating the Face ID) Faces, i.e., go ahead and take hundreds of
   thousands of selfies and fill all those in the Images folder of this repository. You will need to create a Folder and rename as your
   name. E.g., Create a folder named sajal and another as Not sajal.
 
-* (Re)Training
+* (Re)Training:-
 
   To train the model, hit the following:
   
@@ -38,7 +38,7 @@
       --architecture=inception_v3 \
       --image_dir=tf_files/images
 
-* Using the Model
+* Using the Model:-
 
   To get the model Working, hit the following:
   
@@ -46,3 +46,4 @@
       
   That's enough for now!
   Do STAR this Repo if it really helped you!
+  Hope this will help you enhance your skills and rectify the points you where lagging in.
